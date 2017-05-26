@@ -1,0 +1,14 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "ff7332b516cbcbae1dc70c9720b4fd83"
+build_time: [549106588, 408002000]
+inputs:
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/EditWordPairViewController.swift": [547591295, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/DBpara.swift": [547584100, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/DownloadJSONViewController.swift": [547460077, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/AppDelegate.swift": [546421881, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/SortTableViewController.swift": [547492643, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/Test.swift": [547591295, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [547277936, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/SortedView.swift": [547591295, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/DisplayWordPair.swift": [547591295, 0]
+  "/Users/Rroks/MBSolution/Phra/PhraseBook/TagView.swift": [547591295, 0]

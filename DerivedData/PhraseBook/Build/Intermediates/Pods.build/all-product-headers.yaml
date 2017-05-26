@@ -1,0 +1,210 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/Pods_PhraseBook.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-PhraseBook-umbrella.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/Target Support Files/Pods-PhraseBook/Pods-PhraseBook-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_PhraseBook-Swift.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/Pods_PhraseBook.framework/Headers/Pods_PhraseBook-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/Pods_PhraseBook.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-PhraseBook.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SQLite-Bridging.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLiteObjc/include/SQLite-Bridging.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite-Swift.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers/SQLite-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/SQLite.h"
+        },
+        {
+          'type': 'file',
+          'name': "SQLite.swift-umbrella.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/Target Support Files/SQLite.swift/SQLite.swift-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Intermediates/Pods.build/Debug-iphonesimulator/SQLite.swift.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/PrivateHeaders",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "fts3_tokenizer.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLiteObjc/fts3_tokenizer.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-umbrella.h",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/Pods/Target Support Files/SwiftyJSON/SwiftyJSON-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Intermediates/Pods.build/Debug-iphonesimulator/SwiftyJSON.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

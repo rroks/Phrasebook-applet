@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "73a79064a462011639a4db13551628a1"
+build_time: [547277946, 333513000]
+inputs:
+  "/Users/Rroks/MBSolution/Phra/Pods/SwiftyJSON/Source/SwiftyJSON.swift": [547277936, 0]

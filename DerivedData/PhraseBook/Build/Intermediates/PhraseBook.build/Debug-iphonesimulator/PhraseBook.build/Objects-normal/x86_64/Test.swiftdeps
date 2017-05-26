@@ -1,0 +1,846 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Test"
+provides-nominal:
+- "C10PhraseBook4Test"
+provides-member:
+- ["C10PhraseBook4Test", ""]
+provides-dynamic-lookup:
+- "total"
+- "viewWillAppear"
+- "displayWordTwo"
+- "word"
+- "viewDidLoad"
+- "loadWord"
+- "anwserTemp"
+- "didReceiveMemoryWarning"
+- "nextWord"
+- "anwser"
+- "randomRoll"
+- "count"
+depends-top-level:
+- "UILabel"
+- !private "+"
+- !private "wordone"
+- !private "=="
+- "AssignmentPrecedence"
+- !private "wordtwo"
+- !private "theWordPair"
+- !private "db"
+- !private "+="
+- "UIViewController"
+- !private "UInt32"
+- "StringLiteralType"
+- !private "arc4random_uniform"
+- "Test"
+- !private "Int"
+- "AnyObject"
+- "Bool"
+- "Array"
+- "Row"
+- "String"
+depends-member:
+- !private ["Vs11AnyIterator", "Element"]
+- !private ["Ps9AnyObject", "Array"]
+- !private ["Ps9AnyObject", "Int"]
+- !private ["Ps9AnyObject", "UInt32"]
+- ["Ps9AnyObject", "all"]
+- ["Ps9AnyObject", "anwser"]
+- ["Ps9AnyObject", "anwserTemp"]
+- !private ["Ps9AnyObject", "arc4random_uniform"]
+- ["Ps9AnyObject", "count"]
+- !private ["Ps9AnyObject", "db"]
+- ["Ps9AnyObject", "didReceiveMemoryWarning"]
+- ["Ps9AnyObject", "displayWordTwo"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "loadWord"]
+- ["Ps9AnyObject", "nextWord"]
+- !private ["Ps9AnyObject", "prepare"]
+- ["Ps9AnyObject", "randomRoll"]
+- !private ["Ps9AnyObject", "scalar"]
+- !private ["Ps9AnyObject", "text"]
+- !private ["Ps9AnyObject", "theWordPair"]
+- ["Ps9AnyObject", "total"]
+- ["Ps9AnyObject", "viewDidLoad"]
+- ["Ps9AnyObject", "viewWillAppear"]
+- ["Ps9AnyObject", "word"]
+- !private ["Ps9AnyObject", "wordone"]
+- !private ["Ps9AnyObject", "wordtwo"]
+- ["Ps9AnyObject", ""]
+- !private ["Vs11AnySequence", "Iterator"]
+- ["Vs11AnySequence", "deinit"]
+- !private ["Sa", "Iterator"]
+- !private ["Sa", "_Element"]
+- ["Sa", "deinit"]
+- !private ["Sa", "init"]
+- !private ["Ps23BidirectionalCollection", "Iterator"]
+- !private ["Ps23BidirectionalCollection", "_Element"]
+- !private ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps22BidirectionalIndexable", "Iterator"]
+- !private ["Ps22BidirectionalIndexable", "_Element"]
+- !private ["Ps22BidirectionalIndexable", "init"]
+- !private ["P6SQLite7Binding", "_getBuiltinLogicValue"]
+- ["P6SQLite7Binding", "init"]
+- !private ["Ps17BitwiseOperations", "init"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["PSo15CALayerDelegate", "text"]
+- !private ["Ps7CVarArg", "Array"]
+- !private ["Ps7CVarArg", "Int"]
+- !private ["Ps7CVarArg", "Iterator"]
+- !private ["Ps7CVarArg", "UInt32"]
+- !private ["Ps7CVarArg", "_Element"]
+- ["Ps7CVarArg", "all"]
+- ["Ps7CVarArg", "anwser"]
+- ["Ps7CVarArg", "anwserTemp"]
+- !private ["Ps7CVarArg", "arc4random_uniform"]
+- ["Ps7CVarArg", "count"]
+- !private ["Ps7CVarArg", "db"]
+- ["Ps7CVarArg", "didReceiveMemoryWarning"]
+- ["Ps7CVarArg", "displayWordTwo"]
+- ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "loadWord"]
+- ["Ps7CVarArg", "nextWord"]
+- ["Ps7CVarArg", "randomRoll"]
+- !private ["Ps7CVarArg", "text"]
+- !private ["Ps7CVarArg", "theWordPair"]
+- ["Ps7CVarArg", "total"]
+- ["Ps7CVarArg", "viewDidLoad"]
+- ["Ps7CVarArg", "viewWillAppear"]
+- ["Ps7CVarArg", "word"]
+- !private ["Ps7CVarArg", "wordone"]
+- !private ["Ps7CVarArg", "wordtwo"]
+- ["Ps7CVarArg", ""]
+- !private ["Ps10Collection", "Iterator"]
+- !private ["Ps10Collection", "_Element"]
+- !private ["Ps10Collection", "init"]
+- ["Ps10Comparable", "init"]
+- ["C6SQLite10Connection", "deinit"]
+- !private ["C6SQLite10Connection", "prepare"]
+- !private ["C6SQLite10Connection", "scalar"]
+- !private ["Ps28CustomDebugStringConvertible", "Array"]
+- !private ["Ps28CustomDebugStringConvertible", "Int"]
+- !private ["Ps28CustomDebugStringConvertible", "Iterator"]
+- !private ["Ps28CustomDebugStringConvertible", "UInt32"]
+- !private ["Ps28CustomDebugStringConvertible", "_Element"]
+- ["Ps28CustomDebugStringConvertible", "all"]
+- ["Ps28CustomDebugStringConvertible", "anwser"]
+- ["Ps28CustomDebugStringConvertible", "anwserTemp"]
+- !private ["Ps28CustomDebugStringConvertible", "arc4random_uniform"]
+- ["Ps28CustomDebugStringConvertible", "count"]
+- !private ["Ps28CustomDebugStringConvertible", "db"]
+- ["Ps28CustomDebugStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps28CustomDebugStringConvertible", "displayWordTwo"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "loadWord"]
+- ["Ps28CustomDebugStringConvertible", "nextWord"]
+- ["Ps28CustomDebugStringConvertible", "randomRoll"]
+- !private ["Ps28CustomDebugStringConvertible", "text"]
+- !private ["Ps28CustomDebugStringConvertible", "theWordPair"]
+- ["Ps28CustomDebugStringConvertible", "total"]
+- ["Ps28CustomDebugStringConvertible", "viewDidLoad"]
+- ["Ps28CustomDebugStringConvertible", "viewWillAppear"]
+- ["Ps28CustomDebugStringConvertible", "word"]
+- !private ["Ps28CustomDebugStringConvertible", "wordone"]
+- !private ["Ps28CustomDebugStringConvertible", "wordtwo"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Iterator"]
+- !private ["Ps17CustomReflectable", "_Element"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Array"]
+- !private ["Ps23CustomStringConvertible", "Int"]
+- !private ["Ps23CustomStringConvertible", "Iterator"]
+- !private ["Ps23CustomStringConvertible", "UInt32"]
+- !private ["Ps23CustomStringConvertible", "_Element"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "all"]
+- ["Ps23CustomStringConvertible", "anwser"]
+- ["Ps23CustomStringConvertible", "anwserTemp"]
+- !private ["Ps23CustomStringConvertible", "arc4random_uniform"]
+- ["Ps23CustomStringConvertible", "count"]
+- !private ["Ps23CustomStringConvertible", "db"]
+- ["Ps23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["Ps23CustomStringConvertible", "displayWordTwo"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "loadWord"]
+- ["Ps23CustomStringConvertible", "nextWord"]
+- !private ["Ps23CustomStringConvertible", "prepare"]
+- ["Ps23CustomStringConvertible", "randomRoll"]
+- !private ["Ps23CustomStringConvertible", "scalar"]
+- !private ["Ps23CustomStringConvertible", "text"]
+- !private ["Ps23CustomStringConvertible", "theWordPair"]
+- ["Ps23CustomStringConvertible", "total"]
+- ["Ps23CustomStringConvertible", "viewDidLoad"]
+- ["Ps23CustomStringConvertible", "viewWillAppear"]
+- ["Ps23CustomStringConvertible", "word"]
+- !private ["Ps23CustomStringConvertible", "wordone"]
+- !private ["Ps23CustomStringConvertible", "wordtwo"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "Array"]
+- !private ["Ps9Equatable", "Int"]
+- !private ["Ps9Equatable", "UInt32"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "all"]
+- ["Ps9Equatable", "anwser"]
+- ["Ps9Equatable", "anwserTemp"]
+- !private ["Ps9Equatable", "arc4random_uniform"]
+- ["Ps9Equatable", "count"]
+- !private ["Ps9Equatable", "db"]
+- ["Ps9Equatable", "didReceiveMemoryWarning"]
+- ["Ps9Equatable", "displayWordTwo"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "loadWord"]
+- ["Ps9Equatable", "nextWord"]
+- ["Ps9Equatable", "randomRoll"]
+- !private ["Ps9Equatable", "text"]
+- !private ["Ps9Equatable", "theWordPair"]
+- ["Ps9Equatable", "total"]
+- ["Ps9Equatable", "viewDidLoad"]
+- ["Ps9Equatable", "viewWillAppear"]
+- ["Ps9Equatable", "word"]
+- !private ["Ps9Equatable", "wordone"]
+- !private ["Ps9Equatable", "wordtwo"]
+- ["Ps9Equatable", ""]
+- !private ["P6SQLite11Expressible", "_getBuiltinLogicValue"]
+- !private ["P6SQLite11Expressible", "count"]
+- ["P6SQLite11Expressible", "init"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Iterator"]
+- !private ["Ps25ExpressibleByArrayLiteral", "_Element"]
+- !private ["Ps25ExpressibleByArrayLiteral", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps43ExpressibleByExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- !private ["Ps23ExpressibleByNilLiteral", "Iterator"]
+- ["Ps32ExpressibleByStringInterpolation", "init"]
+- ["Ps26ExpressibleByStringLiteral", "init"]
+- ["Ps33ExpressibleByUnicodeScalarLiteral", "init"]
+- ["V6SQLite10Expression", "deinit"]
+- !private ["Ps8Hashable", "Array"]
+- !private ["Ps8Hashable", "Int"]
+- !private ["Ps8Hashable", "UInt32"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "all"]
+- ["Ps8Hashable", "anwser"]
+- ["Ps8Hashable", "anwserTemp"]
+- !private ["Ps8Hashable", "arc4random_uniform"]
+- ["Ps8Hashable", "count"]
+- !private ["Ps8Hashable", "db"]
+- ["Ps8Hashable", "didReceiveMemoryWarning"]
+- ["Ps8Hashable", "displayWordTwo"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "loadWord"]
+- ["Ps8Hashable", "nextWord"]
+- ["Ps8Hashable", "randomRoll"]
+- !private ["Ps8Hashable", "text"]
+- !private ["Ps8Hashable", "theWordPair"]
+- ["Ps8Hashable", "total"]
+- ["Ps8Hashable", "viewDidLoad"]
+- ["Ps8Hashable", "viewWillAppear"]
+- ["Ps8Hashable", "word"]
+- !private ["Ps8Hashable", "wordone"]
+- !private ["Ps8Hashable", "wordtwo"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "Iterator"]
+- ["SQ", "deinit"]
+- !private ["Ps9Indexable", "Iterator"]
+- !private ["Ps9Indexable", "_Element"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Ps13IndexableBase", "Iterator"]
+- !private ["Ps13IndexableBase", "_Element"]
+- !private ["Ps13IndexableBase", "init"]
+- !private ["Vs16IndexingIterator", "Element"]
+- ["Si", "deinit"]
+- !private ["Si", "init"]
+- !private ["Ps7Integer", "init"]
+- !private ["Ps17IntegerArithmetic", "init"]
+- !private ["Ps16IteratorProtocol", "Element"]
+- ["P10PhraseBook17JSONSubscriptType", "init"]
+- ["P10SwiftyJSON17JSONSubscriptType", "init"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps25LosslessStringConvertible", "init"]
+- ["Ps10MirrorPath", "init"]
+- !private ["Ps17MutableCollection", "Iterator"]
+- !private ["Ps17MutableCollection", "_Element"]
+- !private ["Ps17MutableCollection", "init"]
+- !private ["Ps16MutableIndexable", "Iterator"]
+- !private ["Ps16MutableIndexable", "_Element"]
+- !private ["Ps16MutableIndexable", "init"]
+- ["CSo7NSCoder", "deinit"]
+- !private ["PSo8NSCoding", "Array"]
+- !private ["PSo8NSCoding", "Int"]
+- !private ["PSo8NSCoding", "UInt32"]
+- ["PSo8NSCoding", "all"]
+- ["PSo8NSCoding", "anwser"]
+- ["PSo8NSCoding", "anwserTemp"]
+- !private ["PSo8NSCoding", "arc4random_uniform"]
+- ["PSo8NSCoding", "count"]
+- !private ["PSo8NSCoding", "db"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "displayWordTwo"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "loadWord"]
+- ["PSo8NSCoding", "nextWord"]
+- ["PSo8NSCoding", "randomRoll"]
+- !private ["PSo8NSCoding", "text"]
+- !private ["PSo8NSCoding", "theWordPair"]
+- ["PSo8NSCoding", "total"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "viewWillAppear"]
+- ["PSo8NSCoding", "word"]
+- !private ["PSo8NSCoding", "wordone"]
+- !private ["PSo8NSCoding", "wordtwo"]
+- ["PSo8NSCoding", ""]
+- ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "Array"]
+- !private ["PSo26NSExtensionRequestHandling", "Int"]
+- !private ["PSo26NSExtensionRequestHandling", "UInt32"]
+- ["PSo26NSExtensionRequestHandling", "all"]
+- ["PSo26NSExtensionRequestHandling", "anwser"]
+- ["PSo26NSExtensionRequestHandling", "anwserTemp"]
+- !private ["PSo26NSExtensionRequestHandling", "arc4random_uniform"]
+- ["PSo26NSExtensionRequestHandling", "count"]
+- !private ["PSo26NSExtensionRequestHandling", "db"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "displayWordTwo"]
+- !private ["PSo26NSExtensionRequestHandling", "init"]
+- ["PSo26NSExtensionRequestHandling", "loadWord"]
+- ["PSo26NSExtensionRequestHandling", "nextWord"]
+- ["PSo26NSExtensionRequestHandling", "randomRoll"]
+- !private ["PSo26NSExtensionRequestHandling", "theWordPair"]
+- ["PSo26NSExtensionRequestHandling", "total"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "viewWillAppear"]
+- ["PSo26NSExtensionRequestHandling", "word"]
+- !private ["PSo26NSExtensionRequestHandling", "wordone"]
+- !private ["PSo26NSExtensionRequestHandling", "wordtwo"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Array"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "Int"]
+- ["CSo8NSObject", "Row"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "UILabel"]
+- !private ["CSo8NSObject", "UInt32"]
+- ["CSo8NSObject", "all"]
+- ["CSo8NSObject", "anwser"]
+- ["CSo8NSObject", "anwserTemp"]
+- !private ["CSo8NSObject", "arc4random_uniform"]
+- ["CSo8NSObject", "count"]
+- !private ["CSo8NSObject", "db"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "displayWordTwo"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "loadWord"]
+- ["CSo8NSObject", "nextWord"]
+- ["CSo8NSObject", "randomRoll"]
+- !private ["CSo8NSObject", "text"]
+- !private ["CSo8NSObject", "theWordPair"]
+- ["CSo8NSObject", "total"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "viewWillAppear"]
+- ["CSo8NSObject", "word"]
+- !private ["CSo8NSObject", "wordone"]
+- !private ["CSo8NSObject", "wordtwo"]
+- !private ["PSo16NSObjectProtocol", "Array"]
+- !private ["PSo16NSObjectProtocol", "Int"]
+- !private ["PSo16NSObjectProtocol", "UInt32"]
+- ["PSo16NSObjectProtocol", "all"]
+- ["PSo16NSObjectProtocol", "anwser"]
+- ["PSo16NSObjectProtocol", "anwserTemp"]
+- !private ["PSo16NSObjectProtocol", "arc4random_uniform"]
+- ["PSo16NSObjectProtocol", "count"]
+- !private ["PSo16NSObjectProtocol", "db"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "displayWordTwo"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "loadWord"]
+- ["PSo16NSObjectProtocol", "nextWord"]
+- ["PSo16NSObjectProtocol", "randomRoll"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- !private ["PSo16NSObjectProtocol", "theWordPair"]
+- ["PSo16NSObjectProtocol", "total"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "viewWillAppear"]
+- ["PSo16NSObjectProtocol", "word"]
+- !private ["PSo16NSObjectProtocol", "wordone"]
+- !private ["PSo16NSObjectProtocol", "wordtwo"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo14NSSecureCoding", "init"]
+- ["CSo8NSString", "init"]
+- !private ["P6SQLite6Number", "init"]
+- ["Sq", "deinit"]
+- !private ["P6SQLite9QueryType", "count"]
+- !private ["Ps22RandomAccessCollection", "Iterator"]
+- !private ["Ps22RandomAccessCollection", "_Element"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps21RandomAccessIndexable", "Iterator"]
+- !private ["Ps21RandomAccessIndexable", "_Element"]
+- !private ["Ps21RandomAccessIndexable", "init"]
+- !private ["Ps26RangeReplaceableCollection", "Iterator"]
+- !private ["Ps26RangeReplaceableCollection", "_Element"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "Iterator"]
+- !private ["Ps25RangeReplaceableIndexable", "_Element"]
+- !private ["Ps25RangeReplaceableIndexable", "init"]
+- ["V6SQLite3Row", "deinit"]
+- !private ["V6SQLite3Row", "subscript"]
+- ["V6SQLite11ScalarQuery", "deinit"]
+- !private ["P6SQLite10SchemaType", "count"]
+- !private ["Ps8Sequence", "Element"]
+- !private ["Ps8Sequence", "Iterator"]
+- !private ["Ps8Sequence", "_Element"]
+- !private ["Ps8Sequence", "init"]
+- !private ["Ps13SignedInteger", "init"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "init"]
+- ["SS", "deinit"]
+- ["SS", "init"]
+- !private ["V6SQLite5Table", "count"]
+- ["V6SQLite5Table", "deinit"]
+- ["C10PhraseBook4Test", "AnyObject"]
+- ["C10PhraseBook4Test", "Array"]
+- ["C10PhraseBook4Test", "Bool"]
+- !private ["C10PhraseBook4Test", "Int"]
+- ["C10PhraseBook4Test", "Row"]
+- ["C10PhraseBook4Test", "String"]
+- ["C10PhraseBook4Test", "UILabel"]
+- !private ["C10PhraseBook4Test", "UInt32"]
+- ["C10PhraseBook4Test", "all"]
+- ["C10PhraseBook4Test", "anwser"]
+- ["C10PhraseBook4Test", "anwserTemp"]
+- !private ["C10PhraseBook4Test", "arc4random_uniform"]
+- ["C10PhraseBook4Test", "count"]
+- !private ["C10PhraseBook4Test", "db"]
+- ["C10PhraseBook4Test", "deinit"]
+- ["C10PhraseBook4Test", "didReceiveMemoryWarning"]
+- ["C10PhraseBook4Test", "displayWordTwo"]
+- ["C10PhraseBook4Test", "init"]
+- ["C10PhraseBook4Test", "loadWord"]
+- ["C10PhraseBook4Test", "nextWord"]
+- ["C10PhraseBook4Test", "randomRoll"]
+- !private ["C10PhraseBook4Test", "theWordPair"]
+- ["C10PhraseBook4Test", "total"]
+- ["C10PhraseBook4Test", "viewDidLoad"]
+- ["C10PhraseBook4Test", "viewWillAppear"]
+- ["C10PhraseBook4Test", "word"]
+- !private ["C10PhraseBook4Test", "wordone"]
+- !private ["C10PhraseBook4Test", "wordtwo"]
+- ["Ps16TextOutputStream", "init"]
+- ["Ps20TextOutputStreamable", "init"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "Array"]
+- !private ["PSo21UIAppearanceContainer", "Int"]
+- !private ["PSo21UIAppearanceContainer", "UInt32"]
+- ["PSo21UIAppearanceContainer", "all"]
+- ["PSo21UIAppearanceContainer", "anwser"]
+- ["PSo21UIAppearanceContainer", "anwserTemp"]
+- !private ["PSo21UIAppearanceContainer", "arc4random_uniform"]
+- ["PSo21UIAppearanceContainer", "count"]
+- !private ["PSo21UIAppearanceContainer", "db"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "displayWordTwo"]
+- !private ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "loadWord"]
+- ["PSo21UIAppearanceContainer", "nextWord"]
+- ["PSo21UIAppearanceContainer", "randomRoll"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- !private ["PSo21UIAppearanceContainer", "theWordPair"]
+- ["PSo21UIAppearanceContainer", "total"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "viewWillAppear"]
+- ["PSo21UIAppearanceContainer", "word"]
+- !private ["PSo21UIAppearanceContainer", "wordone"]
+- !private ["PSo21UIAppearanceContainer", "wordtwo"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "Array"]
+- !private ["PSo18UIContentContainer", "Int"]
+- !private ["PSo18UIContentContainer", "UInt32"]
+- ["PSo18UIContentContainer", "all"]
+- ["PSo18UIContentContainer", "anwser"]
+- ["PSo18UIContentContainer", "anwserTemp"]
+- !private ["PSo18UIContentContainer", "arc4random_uniform"]
+- ["PSo18UIContentContainer", "count"]
+- !private ["PSo18UIContentContainer", "db"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "displayWordTwo"]
+- !private ["PSo18UIContentContainer", "init"]
+- ["PSo18UIContentContainer", "loadWord"]
+- ["PSo18UIContentContainer", "nextWord"]
+- ["PSo18UIContentContainer", "randomRoll"]
+- !private ["PSo18UIContentContainer", "theWordPair"]
+- ["PSo18UIContentContainer", "total"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "viewWillAppear"]
+- ["PSo18UIContentContainer", "word"]
+- !private ["PSo18UIContentContainer", "wordone"]
+- !private ["PSo18UIContentContainer", "wordtwo"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo30UIContentSizeCategoryAdjusting", "text"]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["PSo18UIFocusEnvironment", "Array"]
+- !private ["PSo18UIFocusEnvironment", "Int"]
+- !private ["PSo18UIFocusEnvironment", "UInt32"]
+- ["PSo18UIFocusEnvironment", "all"]
+- ["PSo18UIFocusEnvironment", "anwser"]
+- ["PSo18UIFocusEnvironment", "anwserTemp"]
+- !private ["PSo18UIFocusEnvironment", "arc4random_uniform"]
+- ["PSo18UIFocusEnvironment", "count"]
+- !private ["PSo18UIFocusEnvironment", "db"]
+- ["PSo18UIFocusEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UIFocusEnvironment", "displayWordTwo"]
+- !private ["PSo18UIFocusEnvironment", "init"]
+- ["PSo18UIFocusEnvironment", "loadWord"]
+- ["PSo18UIFocusEnvironment", "nextWord"]
+- ["PSo18UIFocusEnvironment", "randomRoll"]
+- !private ["PSo18UIFocusEnvironment", "text"]
+- !private ["PSo18UIFocusEnvironment", "theWordPair"]
+- ["PSo18UIFocusEnvironment", "total"]
+- ["PSo18UIFocusEnvironment", "viewDidLoad"]
+- ["PSo18UIFocusEnvironment", "viewWillAppear"]
+- ["PSo18UIFocusEnvironment", "word"]
+- !private ["PSo18UIFocusEnvironment", "wordone"]
+- !private ["PSo18UIFocusEnvironment", "wordtwo"]
+- ["PSo18UIFocusEnvironment", ""]
+- !private ["PSo11UIFocusItem", "text"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Array"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "Int"]
+- ["CSo11UIResponder", "Row"]
+- ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "UILabel"]
+- !private ["CSo11UIResponder", "UInt32"]
+- ["CSo11UIResponder", "all"]
+- ["CSo11UIResponder", "anwser"]
+- ["CSo11UIResponder", "anwserTemp"]
+- !private ["CSo11UIResponder", "arc4random_uniform"]
+- ["CSo11UIResponder", "count"]
+- !private ["CSo11UIResponder", "db"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "displayWordTwo"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "loadWord"]
+- ["CSo11UIResponder", "nextWord"]
+- ["CSo11UIResponder", "randomRoll"]
+- !private ["CSo11UIResponder", "text"]
+- !private ["CSo11UIResponder", "theWordPair"]
+- ["CSo11UIResponder", "total"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "viewWillAppear"]
+- ["CSo11UIResponder", "word"]
+- !private ["CSo11UIResponder", "wordone"]
+- !private ["CSo11UIResponder", "wordtwo"]
+- !private ["PSo30UIResponderStandardEditActions", "Array"]
+- !private ["PSo30UIResponderStandardEditActions", "Int"]
+- !private ["PSo30UIResponderStandardEditActions", "UInt32"]
+- ["PSo30UIResponderStandardEditActions", "all"]
+- ["PSo30UIResponderStandardEditActions", "anwser"]
+- ["PSo30UIResponderStandardEditActions", "anwserTemp"]
+- !private ["PSo30UIResponderStandardEditActions", "arc4random_uniform"]
+- ["PSo30UIResponderStandardEditActions", "count"]
+- !private ["PSo30UIResponderStandardEditActions", "db"]
+- ["PSo30UIResponderStandardEditActions", "didReceiveMemoryWarning"]
+- ["PSo30UIResponderStandardEditActions", "displayWordTwo"]
+- !private ["PSo30UIResponderStandardEditActions", "init"]
+- ["PSo30UIResponderStandardEditActions", "loadWord"]
+- ["PSo30UIResponderStandardEditActions", "nextWord"]
+- ["PSo30UIResponderStandardEditActions", "randomRoll"]
+- !private ["PSo30UIResponderStandardEditActions", "text"]
+- !private ["PSo30UIResponderStandardEditActions", "theWordPair"]
+- ["PSo30UIResponderStandardEditActions", "total"]
+- ["PSo30UIResponderStandardEditActions", "viewDidLoad"]
+- ["PSo30UIResponderStandardEditActions", "viewWillAppear"]
+- ["PSo30UIResponderStandardEditActions", "word"]
+- !private ["PSo30UIResponderStandardEditActions", "wordone"]
+- !private ["PSo30UIResponderStandardEditActions", "wordtwo"]
+- ["PSo30UIResponderStandardEditActions", ""]
+- !private ["PSo16UIStateRestoring", "Array"]
+- !private ["PSo16UIStateRestoring", "Int"]
+- !private ["PSo16UIStateRestoring", "UInt32"]
+- ["PSo16UIStateRestoring", "all"]
+- ["PSo16UIStateRestoring", "anwser"]
+- ["PSo16UIStateRestoring", "anwserTemp"]
+- !private ["PSo16UIStateRestoring", "arc4random_uniform"]
+- ["PSo16UIStateRestoring", "count"]
+- !private ["PSo16UIStateRestoring", "db"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "displayWordTwo"]
+- !private ["PSo16UIStateRestoring", "init"]
+- ["PSo16UIStateRestoring", "loadWord"]
+- ["PSo16UIStateRestoring", "nextWord"]
+- ["PSo16UIStateRestoring", "randomRoll"]
+- !private ["PSo16UIStateRestoring", "theWordPair"]
+- ["PSo16UIStateRestoring", "total"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "viewWillAppear"]
+- ["PSo16UIStateRestoring", "word"]
+- !private ["PSo16UIStateRestoring", "wordone"]
+- !private ["PSo16UIStateRestoring", "wordtwo"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "Array"]
+- !private ["PSo18UITraitEnvironment", "Int"]
+- !private ["PSo18UITraitEnvironment", "UInt32"]
+- ["PSo18UITraitEnvironment", "all"]
+- ["PSo18UITraitEnvironment", "anwser"]
+- ["PSo18UITraitEnvironment", "anwserTemp"]
+- !private ["PSo18UITraitEnvironment", "arc4random_uniform"]
+- ["PSo18UITraitEnvironment", "count"]
+- !private ["PSo18UITraitEnvironment", "db"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "displayWordTwo"]
+- !private ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "loadWord"]
+- ["PSo18UITraitEnvironment", "nextWord"]
+- ["PSo18UITraitEnvironment", "randomRoll"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- !private ["PSo18UITraitEnvironment", "theWordPair"]
+- ["PSo18UITraitEnvironment", "total"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "viewWillAppear"]
+- ["PSo18UITraitEnvironment", "word"]
+- !private ["PSo18UITraitEnvironment", "wordone"]
+- !private ["PSo18UITraitEnvironment", "wordtwo"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "Array"]
+- ["CSo16UIViewController", "Bool"]
+- !private ["CSo16UIViewController", "Int"]
+- ["CSo16UIViewController", "Row"]
+- ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "UILabel"]
+- !private ["CSo16UIViewController", "UInt32"]
+- ["CSo16UIViewController", "all"]
+- ["CSo16UIViewController", "anwser"]
+- ["CSo16UIViewController", "anwserTemp"]
+- !private ["CSo16UIViewController", "arc4random_uniform"]
+- ["CSo16UIViewController", "count"]
+- !private ["CSo16UIViewController", "db"]
+- ["CSo16UIViewController", "deinit"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "displayWordTwo"]
+- ["CSo16UIViewController", "init"]
+- ["CSo16UIViewController", "loadWord"]
+- ["CSo16UIViewController", "nextWord"]
+- ["CSo16UIViewController", "randomRoll"]
+- !private ["CSo16UIViewController", "theWordPair"]
+- ["CSo16UIViewController", "total"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "viewWillAppear"]
+- ["CSo16UIViewController", "word"]
+- !private ["CSo16UIViewController", "wordone"]
+- !private ["CSo16UIViewController", "wordtwo"]
+- ["CSo16UIViewController", ""]
+- ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt32", "init"]
+- !private ["Ps15UnsignedInteger", "init"]
+- !private ["P6SQLite5Value", "_getBuiltinLogicValue"]
+- ["P6SQLite5Value", "init"]
+- !private ["Ps14_ArrayProtocol", "Iterator"]
+- !private ["Ps14_ArrayProtocol", "_Element"]
+- !private ["Ps14_ArrayProtocol", "init"]
+- !private ["Ps37_DefaultCustomPlaygroundQuickLookable", "text"]
+- !private ["Ps24_DestructorSafeContainer", "Iterator"]
+- !private ["Ps24_DestructorSafeContainer", "_Element"]
+- !private ["Ps24_DestructorSafeContainer", "init"]
+- !private ["Ps28_DisallowMixedSignArithmetic", "init"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- ["Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- ["Ps34_ExpressibleByBuiltinStringLiteral", "init"]
+- ["Ps39_ExpressibleByBuiltinUTF16StringLiteral", "init"]
+- ["Ps41_ExpressibleByBuiltinUnicodeScalarLiteral", "init"]
+- ["Ps35_HasCustomAnyHashableRepresentation", "init"]
+- !private ["Ps9_Hashable", "Array"]
+- !private ["Ps9_Hashable", "Int"]
+- !private ["Ps9_Hashable", "UInt32"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "all"]
+- ["Ps9_Hashable", "anwser"]
+- ["Ps9_Hashable", "anwserTemp"]
+- !private ["Ps9_Hashable", "arc4random_uniform"]
+- ["Ps9_Hashable", "count"]
+- !private ["Ps9_Hashable", "db"]
+- ["Ps9_Hashable", "didReceiveMemoryWarning"]
+- ["Ps9_Hashable", "displayWordTwo"]
+- ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "loadWord"]
+- ["Ps9_Hashable", "nextWord"]
+- ["Ps9_Hashable", "randomRoll"]
+- !private ["Ps9_Hashable", "text"]
+- !private ["Ps9_Hashable", "theWordPair"]
+- ["Ps9_Hashable", "total"]
+- ["Ps9_Hashable", "viewDidLoad"]
+- ["Ps9_Hashable", "viewWillAppear"]
+- ["Ps9_Hashable", "word"]
+- !private ["Ps9_Hashable", "wordone"]
+- !private ["Ps9_Hashable", "wordtwo"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps14_Incrementable", "init"]
+- !private ["Ps8_Integer", "init"]
+- !private ["Ps18_IntegerArithmetic", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "Iterator"]
+- !private ["Ps21_ObjectiveCBridgeable", "_Element"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps14_SignedInteger", "init"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- !private "Vs11AnyIterator"
+- "Ps9AnyObject"
+- "Vs11AnySequence"
+- "Sa"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- "P6SQLite7Binding"
+- !private "Ps17BitwiseOperations"
+- "Sb"
+- !private "PSo15CALayerDelegate"
+- "Ps7CVarArg"
+- !private "Ps10Collection"
+- "Ps10Comparable"
+- "C6SQLite10Connection"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "P6SQLite11Expressible"
+- !private "Ps25ExpressibleByArrayLiteral"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "Ps43ExpressibleByExtendedGraphemeClusterLiteral"
+- !private "Ps27ExpressibleByIntegerLiteral"
+- !private "Ps23ExpressibleByNilLiteral"
+- "Ps32ExpressibleByStringInterpolation"
+- "Ps26ExpressibleByStringLiteral"
+- "Ps33ExpressibleByUnicodeScalarLiteral"
+- "V6SQLite10Expression"
+- "Ps8Hashable"
+- "SQ"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Vs16IndexingIterator"
+- "Si"
+- !private "Ps7Integer"
+- !private "Ps17IntegerArithmetic"
+- !private "Ps16IteratorProtocol"
+- "P10PhraseBook17JSONSubscriptType"
+- "P10SwiftyJSON17JSONSubscriptType"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- "CSo7NSCoder"
+- "PSo8NSCoding"
+- "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo14NSSecureCoding"
+- "CSo8NSString"
+- !private "P6SQLite6Number"
+- "Sq"
+- !private "P6SQLite9QueryType"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- "V6SQLite3Row"
+- "V6SQLite11ScalarQuery"
+- !private "P6SQLite10SchemaType"
+- !private "Ps8Sequence"
+- !private "Ps13SignedInteger"
+- !private "Ps12SignedNumber"
+- !private "Ps10Strideable"
+- "SS"
+- "V6SQLite5Table"
+- "C10PhraseBook4Test"
+- "Ps16TextOutputStream"
+- "Ps20TextOutputStreamable"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo30UIContentSizeCategoryAdjusting"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- "PSo18UIFocusEnvironment"
+- !private "PSo11UIFocusItem"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo30UIResponderStandardEditActions"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- "Vs6UInt32"
+- !private "Ps15UnsignedInteger"
+- "P6SQLite5Value"
+- !private "Ps14_ArrayProtocol"
+- !private "Ps37_DefaultCustomPlaygroundQuickLookable"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps28_DisallowMixedSignArithmetic"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps51_ExpressibleByBuiltinExtendedGraphemeClusterLiteral"
+- !private "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps34_ExpressibleByBuiltinStringLiteral"
+- "Ps39_ExpressibleByBuiltinUTF16StringLiteral"
+- "Ps41_ExpressibleByBuiltinUnicodeScalarLiteral"
+- "Ps35_HasCustomAnyHashableRepresentation"
+- "Ps9_Hashable"
+- !private "Ps14_Incrementable"
+- !private "Ps8_Integer"
+- !private "Ps18_IntegerArithmetic"
+- "Ps21_ObjectiveCBridgeable"
+- !private "Ps14_SignedInteger"
+- !private "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Modules/SQLite.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator10.0.sdk/usr/include/module.modulemap"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers/SQLite-Swift.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers/SQLite-Bridging.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers/SQLite.h"
+- "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/CocoaPods/iphonesimulator-10.0/module.modulemap"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Headers/SQLite.swift-umbrella.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SQLite.swift/SQLite.framework/Modules/module.modulemap"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Headers/SwiftyJSON-umbrella.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SwiftyJSON/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIView+WebCacheOperation.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+WebCache.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImageView+HighlightedWebCache.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+MultiFormat.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIImage+GIF.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/UIButton+WebCache.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImagePrefetcher.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageManager.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloaderOperation.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageOperation.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDownloader.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageDecoder.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImageCompat.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDImageCache.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/NSData+ImageContentType.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-umbrella.h"
+- "/Users/Rroks/MBSolution/Phra/DerivedData/PhraseBook/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules/module.modulemap"
+interface-hash: "2c0941af0bafde595691a785aa8704c3"

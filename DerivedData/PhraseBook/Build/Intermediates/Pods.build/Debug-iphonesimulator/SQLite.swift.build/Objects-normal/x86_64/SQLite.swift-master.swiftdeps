@@ -1,0 +1,22 @@
+version: "Apple Swift version 3.0 (swiftlang-800.0.46.2 clang-800.0.38)"
+options: "b9aa69324c8697d2f912fd46a605c081"
+build_time: [547277952, 771005000]
+inputs:
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/AggregateFunctions.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Core/Blob.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Collation.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Core/Connection.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/CoreFunctions.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/CustomFunctions.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Expression.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Foundation.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Extensions/FTS4.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Extensions/FTS5.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Helpers.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Operators.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Query.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Extensions/RTree.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Schema.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Typed/Setter.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Core/Statement.swift": [547116976, 0]
+  "/Users/Rroks/MBSolution/Phra/Pods/SQLite.swift/Sources/SQLite/Core/Value.swift": [547116976, 0]
